@@ -1,6 +1,6 @@
 {
-  "name": "hyperterm-working-directory",
-  "version": "0.1.1",
+  "name": "hyper-working-directory",
+  "version": "0.0.0",
   "description": "Adds a default working directory setting. Opens new tabs using that working directory.",
   "main": "index.js",
   "keywords": [
@@ -11,9 +11,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bevacqua/hyperterm-working-directory.git"
+    "url": "https://github.com/dfrankland/hyper-working-directory.git"
   },
   "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com)",
+  "contributors": [
+    {
+      "name": "Dylan Frankland",
+      "email": "dylan@frankland.io",
+      "url": "https://frankland.io/"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "untildify": "3.0.2"
