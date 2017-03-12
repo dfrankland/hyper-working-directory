@@ -23,6 +23,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "untildify": "3.0.2"
+    "untildify": "^3.0.2"
   }
 }
